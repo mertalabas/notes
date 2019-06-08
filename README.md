@@ -1,2 +1,2 @@
 ﻿# Notes
-Python Çalışma Dosyalarım
+Kodluyoruz Bootcamp'te Yaptığımız Python Çalışma Dosyalarım
